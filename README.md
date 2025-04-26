@@ -30,3 +30,5 @@ By changing k_1 and k_2 to -15 we get the following results.
 
 ![System Diagram](images/Position_Stable.png)
 ![System Diagram](images/Angle_Stable.png)
+
+We can see that the system is now stable and the cart is able to keep the pendulum stable. 
