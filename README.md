@@ -1,6 +1,6 @@
 # What is this?
 This is a Cosimulation of a Cart, Inverted Pendulum and regulator system with the goal of using the cart to stabilise the angle of the inverted pendulum. 
-
+The 3 FMUs each have their own python file which can be found in the CartPendulum directory. 
 # How to use
 
 First you have to run the Build.Py file in order to create the 3 FMUS.
