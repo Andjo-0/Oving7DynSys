@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     configPosition = TimeSeriesConfig(
 
-        title="Cart-Pendulum-Regulator System",
+        title="Cart Position initial parameters",
         y_label="Position ",
         identifiers=["cart::position"]
 
@@ -58,8 +58,8 @@ if __name__ == '__main__':
 
     configAngle = TimeSeriesConfig(
 
-        title="Cart-Pendulum-Regulator System",
-        y_label="Angle [m / rad]",
+        title="Pendulum angle initial parameters",
+        y_label="Angle radians",
         identifiers=["pendulum::angle"]
 
     )
